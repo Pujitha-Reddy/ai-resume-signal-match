@@ -1,6 +1,14 @@
-# AI Resume - Job Signal Match
+# AI Resume ↔ Job Signal Match
 
-A full-stack tool that compares a resume against a job description and returns a match score, matched/missing skills, and concrete suggestions, powered by an LLM with structured JSON output.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+
+A full-stack tool that compares a resume against a job description and returns a match score, matched/missing skills, and concrete suggestions powered by an LLM with structured JSON output.
 
 ## Live Demo
 
