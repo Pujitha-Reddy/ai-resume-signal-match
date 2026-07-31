@@ -13,7 +13,10 @@ client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=[
+        "http://localhost:3000",
+        "https://ai-resume-signal-match.vercel.app"
+    ],
     allow_methods=["*"],
     allow_headers=["*"],
 )
