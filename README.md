@@ -2,6 +2,12 @@
 
 A full-stack tool that compares a resume against a job description and returns a match score, matched/missing skills, and concrete suggestions, powered by an LLM with structured JSON output.
 
+## Live Demo
+
+**[ai-resume-signal-match.vercel.app](https://ai-resume-signal-match.vercel.app)**
+
+> Note: the backend is hosted on a free tier and spins down after periods of inactivity. The first request may take up to a minute to respond while it wakes up, subsequent requests are fast.
+
 ![Resume Signal Match UI](./screenshot.png)
 
 ## What it does
